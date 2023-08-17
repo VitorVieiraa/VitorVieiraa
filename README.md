@@ -1,7 +1,7 @@
 ### Olá a todos, Sou Vitor e bem vindos ao meu GitHub 👋😎
 
-- 🔭 Atualmente sou Desenvolvedor Front-End usando a tecnologia do Framework Angular, desenvolvendo aplicações de alta performance. 
-- 🌱 Estudando HTML, CSS, JavaScript, TypeScript e Angular
+- 🔭Sou um Desenvolvedor com conhecimentos em Front-End e Back-end, desenvolvendo aplicações com HTML, CSS, TYPESCRIPT, ANGULAR, JAVA KOTLIN, NODEJS e MONGODB. GitGithub/Bitbucket
+- 🌱 Estudando HTML, CSS, JavaScript, TypeScript, Angular, React e NodeJs
 - 📫 Contate-me no e-mail: vitorbox360@gmail.com
 
 <div align="center">
